@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalagurram
-- 👀 I’m interested in learning the twchnical stuff mainly in the web development side.
+- 👀 I’m interested in learning the technical stuff mainly in the web development side.
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - Iam the student of CMRTC
